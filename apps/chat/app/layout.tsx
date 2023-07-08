@@ -6,8 +6,8 @@ import { getClientConfig } from "./config/client";
 import { SWRProvider } from "@/app/provider";
 
 export const metadata = {
-  title: "ChatGPT Next Web",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "小知助手",
+  description: "你的全能AI助手",
   viewport: {
     width: "device-width",
     initialScale: 1,
