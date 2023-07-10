@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 import { SWRProvider } from "@/app/provider";
 
 export const metadata = {
-  title: "小知助手",
+  title: "个人知识笔记",
   description: "你的全能AI助手",
   viewport: {
     width: "device-width",
